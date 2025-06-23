@@ -1,3 +1,5 @@
 1 - André Ramos Milani Araujo
 
-Inserindo novas informações na segunda branch criada
+Inserindo novas informações na segunda branch criada.
+
+Aula de versionamento dia 23/06/25.
