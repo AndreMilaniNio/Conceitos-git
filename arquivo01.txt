@@ -1,4 +1,5 @@
 1 - André Ramos Milani Araujo
+    |> Somente o melhor!
 
 Inserindo novas informações na segunda branch criada.
 
